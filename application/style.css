@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(30, 28, 28);
+   
+}
+body{
+    background-color: gainsboro;
+}
+.container{
+    width: 530px;
+    height: 500px;
+    background-color: rgb(19, 71, 71);
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    left: 30%;
+    top: 11%;
+    border-radius: 20px  120px  20px 120px;
+    box-shadow: 20px 10px 50px 10px black;
+    border: 2px dotted rgb(240, 230, 230);
+
+}
+
+.heading1{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 25px;
+    padding: 10px;
+    
+
+}
+.humidity,
+.wind {
+  font-size: 28px;
+  margin-top: -6px;
+}
+.weather {
+  display: none;
+}
+.error {
+  text-align: left;
+  margin-left: 10px;
+  font-size: 14px;
+  margin-top: 10px;
+  display: none;
+}
+#cityname{
+    padding: 10px;
+    color: black;
+    border-radius: 5px 20px 5px 20px;
+    width: 200px;
+    border: none;
+    font-weight: bold;
+}
+#button{
+
+    font-size: 15px;
+    padding: 10px;
+    color: black ;
+    border: none;
+    /* border-radius: 5px 20px 5px 20px; */
+    /* border-radius:  20px 5px 20px 5px ; */
+    border-radius: 15px;
+    width: 100px;
+    
+}
+
+
+.temp{
+    position: relative;
+    top: 0rem;
+}
+.srech-icon{
+    min-width: 50px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
